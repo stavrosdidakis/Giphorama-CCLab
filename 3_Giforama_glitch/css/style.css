@@ -1,0 +1,43 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.topBar {
+  margin: 0px;
+  padding: 40px 0px 20px 40px;
+  width: calc(100%-40px);
+  /*background-color: #606060;*/
+
+  font-size: 80px;
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  text-shadow: 2px 2px #ff0000;
+  
+  background-image: url('https://media1.giphy.com/media/gx54W1mSpeYMg/giphy.gif?cid=790b7611794908c3407dcb118116238f13e77595d7c26d69&rid=giphy.gif&ct=g');
+  background-position: 0% 15%;
+  /*background-image: url('https://media.giphy.com/media/l4FGBILjNaCtLious/giphy.gif');
+  background-image: url('https://media.giphy.com/media/8P4SDD5khxL4xKcXGJ/giphy.gif');*/
+}
+
+.container {
+  border: 0px solid black;
+  display: flex;
+  /*background-color: grey;*/
+  margin: 0 auto;
+}
+
+.sideBar {
+  padding: 1rem;
+  width: 25%;
+  /*background-color: blue;*/
+}
+
+#sketchID {
+  padding: 0px;
+  /*background-color: red;*/
+  border: 2px solid red;
+  width: 75%;
+  overflow: hidden;
+  height: 815px;
+}
