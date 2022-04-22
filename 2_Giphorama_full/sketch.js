@@ -1,5 +1,5 @@
 //*******************************************
-// GIFORAMA
+// GIPHORAMA
 //Use the Giphy API to extract multiple gifs
 //More info here: https://developers.giphy.com/branch/master/docs/api/
 //*******************************************
